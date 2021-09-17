@@ -41,9 +41,10 @@ _Graphic Design_
 ![using Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![using Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
                 
-## _My Portfolio_ 
+## _Contacts_ 
 
-[cassandremichelet.tumblr.com](https://cassandremichelet.tumblr.com/)  
+[![My Portfolio](https://img.shields.io/badge/See%20my%20portfolio%20online-darkorchid?style=for-the-badge&logo=Tumblr&logoColor=white)](https://cassandremichelet.tumblr.com/)  
+[![My LinkedIn](https://img.shields.io/badge/go%20to%20my%20LinkedIn%20profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassandre-michelet-5852b2b1/)
 
 <!---
 CassouDev/CassouDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
