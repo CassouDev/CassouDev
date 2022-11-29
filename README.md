@@ -9,7 +9,7 @@
 Freelance graphic designer since 2016, I recently completed a junior web developer training to complete my skills.  
     
 I made my web projects on Visual studio, using the languages _HTML5_, _CSS3_, _Javascript_, _Php_ and _MySQL_.🌱 I’m currently learning _Symfony_.  
-👀  I’m looking to work for a web agency  
+👀 I am looking to work for an agency where I can combine my two specialties, Graphic Design and Web Development.
     
 Feel free to visit my portfolio online at  [cassandremichelet.tumblr.com](https://cassandremichelet.tumblr.com/)
 
